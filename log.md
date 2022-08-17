@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 15, 2021
+### Day 0: August 15, 2022
 
 **Today's Progress**: Update - Trabajando en el layout y estilos Css de la app, utilizando grid y ajustando los diseños mobile first en la sección main-table-container . Siguiendo metodología BEM.
 
@@ -10,3 +10,14 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 
 **Link to work:** [Commit](https://github.com/Ibraturk/cursoMobileFirst/commit/56383871fbd1b7a70cb3a359e66efedf31c11e08)
 
+### Day 1: August 16, 2022
+
+**Today's Progress**: Ronda 1. Añadí otra tabla a lo que venía trabajando y concatené estilos Css para ambas tablas con ciertos cambios de background y color. 
+Además sumé arrows en ambos laterales para luego implementar dinamismo en Js. Terminé 2 secciones de la pagina, la primera trabajando con cards , al usar la metodología BEM me resulta intuitivo y mas facil asignar estilos y escalar la app. Y la segunda sección de comodín un hero image con un titulo. 
+
+
+Código escrito para las clases del Curso de Responsive Design: Maquetación Mobile First en @Platzi
+
+**Thoughts:** : La primera parte fue de cierre para ese pedazo de código, quiero pensar que no estoy haciendo un mal uso de css. Estoy aplicando para las clases hacer o llevar adelante la estructura lo mas que puedo y si tengo alguna duda de como resolver sigo la clase. A veces me parece demasiado repetitivo en algunos casos pero va quedando muy lindo el proyecto. Acá concluye el dia.
+
+**Link to work:** [Commit](https://github.com/Ibraturk/cursoMobileFirst/commit/64086c86d0db8dba6d363a645beb49bdaf9a50e9)
