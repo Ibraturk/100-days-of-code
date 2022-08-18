@@ -27,3 +27,5 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 **Today's Progress**: Update del proyecto Batata bit, estuve trabajando en la sección de planes donde hubo varios retos, crear los contenedores con las cartas representando cada plan y sumarle estilos como reto personal añadí un Feature que fue el scrollbar.
 
 **Thoughts:** : Fue mas agotador el dia llegar del trabajo y ponerme a codear, igual despues de un rato empecé a teclear con mas confianza y me sumergí en el código, me gusta lo que hago en esta página e intenté mantenerme lo mas focus en toda la jornada de estudio. Me pasé de hora para el reto igualmente aún es el dia 2. Concluimos el día 2
+
+**Link to work:** [Commit](https://github.com/Ibraturk/cursoMobileFirst/commit/11fbab7d11472cde46246261c8dbed0e3943dacc)
