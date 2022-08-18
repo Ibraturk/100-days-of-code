@@ -21,3 +21,9 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 **Thoughts:** : La primera parte fue de cierre para ese pedazo de código, quiero pensar que no estoy haciendo un mal uso de css. Estoy aplicando para las clases hacer o llevar adelante la estructura lo mas que puedo y si tengo alguna duda de como resolver sigo la clase. A veces me parece demasiado repetitivo en algunos casos pero va quedando muy lindo el proyecto. Acá concluye el dia.
 
 **Link to work:** [Commit](https://github.com/Ibraturk/cursoMobileFirst/commit/64086c86d0db8dba6d363a645beb49bdaf9a50e9)
+
+### Day 2: August 17, 2022
+
+**Today's Progress**: Update del proyecto Batata bit, estuve trabajando en la sección de planes donde hubo varios retos, crear los contenedores con las cartas representando cada plan y sumarle estilos como reto personal añadí un Feature que fue el scrollbar.
+
+**Thoughts:** : Fue mas agotador el dia llegar del trabajo y ponerme a codear, igual despues de un rato empecé a teclear con mas confianza y me sumergí en el código, me gusta lo que hago en esta página e intenté mantenerme lo mas focus en toda la jornada de estudio. Me pasé de hora para el reto igualmente aún es el dia 2. Concluimos el día 2
