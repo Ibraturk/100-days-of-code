@@ -29,3 +29,11 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 **Thoughts:** : Fue mas agotador el dia llegar del trabajo y ponerme a codear, igual despues de un rato empecé a teclear con mas confianza y me sumergí en el código, me gusta lo que hago en esta página e intenté mantenerme lo mas focus en toda la jornada de estudio. Me pasé de hora para el reto igualmente aún es el dia 2. Concluimos el día 2
 
 **Link to work:** [Commit](https://github.com/Ibraturk/cursoMobileFirst/commit/11fbab7d11472cde46246261c8dbed0e3943dacc)
+
+### Day 3: August 18, 2022
+
+**Today's Progress**: Ronda 1 Estuve a la mañana terminando con los estilos css y dandole retoques finales a toda la aplicación , haciendo la parte del footer bastante sencilla con flex y algunas otras clases. Ronda 2 Media querys : Ya con el diseño mobile terminado toca hacer ajustes para las pantallas siguientes. Add media querys para tablet y desktop. Proyecto Batata bit finalizado.
+
+**Thoughts:** : Hacer 2 rondas una de mañana y otra despues del trabajo me gustó me levanté contento por dedicarle tiempo a estudiar y luego volver a casa y dedicar otro rato mas me hace sentir un avance. Pude terminar el proyecto y hacer un analisis de performance con la herramienta devtools Lighthouse. 
+
+**Link to work:** [Commit](https://github.com/Ibraturk/cursoMobileFirst/commit/3aaf81e938b0e2e3da72404ed40dbd252b16d0c6)
