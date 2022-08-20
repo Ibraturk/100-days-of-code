@@ -37,3 +37,12 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 **Thoughts:** : Hacer 2 rondas una de mañana y otra despues del trabajo me gustó me levanté contento por dedicarle tiempo a estudiar y luego volver a casa y dedicar otro rato mas me hace sentir un avance. Pude terminar el proyecto y hacer un analisis de performance con la herramienta devtools Lighthouse. 
 
 **Link to work:** [Commit](https://github.com/Ibraturk/cursoMobileFirst/commit/3aaf81e938b0e2e3da72404ed40dbd252b16d0c6)
+
+### Day 4: August 19, 2022
+
+**Today's Progress**: Retomé una serie de retos de devchallenges.io y hice un chequeo de la estructura de una pagina de error 404, cambíe parte de la estructura html usando otras etiquetas para luego comenzar a mejorar la aplicación de estilos css.
+
+**Thoughts:** : Se acerca el fin de semana y me costó hoy mas entender y digerir lo que intenté hacer para escribir con mas conciencia y buenas prácticas el reto. Estoy cansado igual despues de un dia de trabajo. Mañana será mejor :) Happy code. 
+
+**Link to work:** [Commit](https://github.com/Ibraturk/404-not-found/commit/94e63061176ea327d166ba7687d74f42b426fa79)
+
