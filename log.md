@@ -52,4 +52,12 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 
 **Thoughts:** : Tengo que chequear los estilos que no están funcionando para las pantallas siguientes. 
 
-**Link to work:** [Commit]([https://github.com/Ibraturk/404-not-found/commit/94e63061176ea327d166ba7687d74f42b426fa79](https://github.com/Ibraturk/404-not-found/commit/3c0a4c0eca0713aeec2a97c2956a3f07476868db))
+**Link to work:** [Commit](https://github.com/Ibraturk/404-not-found/commit/3c0a4c0eca0713aeec2a97c2956a3f07476868db)
+
+### Day 6: August 21, 2022
+
+**Today's Progress**: Avancé en los estilos y reajusté las pantallas mobile que no estaban funcionando bien, apliqué en algunos lados flex. Apliqué media querys a las pantallas siguientes de tablet y desktop.
+
+**Thoughts:** : Me gustaría poder quedarme todo el dia codeando y terminando este primer reto, tengo que ir a trabajar jeje, me falta ajustar los querys para que la experiencia sea mejor.
+
+**Link to work:** [Commit](https://github.com/Ibraturk/404-not-found/commit/78b67eaeb191e2369a4c8ec9a328c17d0d985bb3)
