@@ -46,3 +46,10 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 
 **Link to work:** [Commit](https://github.com/Ibraturk/404-not-found/commit/94e63061176ea327d166ba7687d74f42b426fa79)
 
+### Day 5: August 20, 2022
+
+**Today's Progress**: Terminé de chequear el layout y escribí Css, hoy me encontré con problemas de escalabilidad en las pantallas mas grandes. 
+
+**Thoughts:** : Tengo que chequear los estilos que no están funcionando para las pantallas siguientes. 
+
+**Link to work:** [Commit]([https://github.com/Ibraturk/404-not-found/commit/94e63061176ea327d166ba7687d74f42b426fa79](https://github.com/Ibraturk/404-not-found/commit/3c0a4c0eca0713aeec2a97c2956a3f07476868db))
