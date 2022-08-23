@@ -61,3 +61,11 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 **Thoughts:** : Me gustaría poder quedarme todo el dia codeando y terminando este primer reto, tengo que ir a trabajar jeje, me falta ajustar los querys para que la experiencia sea mejor.
 
 **Link to work:** [Commit](https://github.com/Ibraturk/404-not-found/commit/78b67eaeb191e2369a4c8ec9a328c17d0d985bb3)
+
+### Day 7: August 22, 2022
+
+**Today's Progress**: Comienzo el siguiente reto de dechallenges.io Esta vez una pagina para presentar el equipo de una agencia, yo presentaré algunos cambios y haré la tematica de mi grupo de hip hop preferido. Algunos avances en el layout y aplicando los primeros estilos. 
+
+**Thoughts:** : Having fun, noche de dia libre para codear y seguir prácticando . El reto es hacer otro sitio responsive, entender a profundidad como pasar de un diseño a código. 
+
+**Link to work:** [Commit](https://github.com/Ibraturk/wuTang-teamPage/commit/78acdbaf9678d65d843e7ee274bf6c6fef2cbe90)
