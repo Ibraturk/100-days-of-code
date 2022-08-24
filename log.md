@@ -69,3 +69,13 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 **Thoughts:** : Having fun, noche de dia libre para codear y seguir prácticando . El reto es hacer otro sitio responsive, entender a profundidad como pasar de un diseño a código. 
 
 **Link to work:** [Commit](https://github.com/Ibraturk/wuTang-teamPage/commit/78acdbaf9678d65d843e7ee274bf6c6fef2cbe90)
+
+### Day 8: August 23, 2022
+
+**Today's Progress**: Avances en las cards de los integrantes del equipo, se cambió a una etiqueta article en su estructura para mas semántica y jugué con display flex y grid en algunos contenedores para obtener un resultado parecido al diseño.
+
+**Thoughts:** : Una tanda de código a la mañana y a la noche, muy contento con la doble tanda ya que me fui de la mañana con cosas por resolver pero tuve tiempo para pensar posibles soluciones y desarrollarla en mi cabeza. Soluciones que luego pude aplicar y seguir con el diseño que estaba haciendo. Es una herramienta, hay que divertirse y aprender.
+
+**Link to work:** [Commit](https://github.com/Ibraturk/wuTang-teamPage/commit/95e41924906a8f12445f225a5887d6f246a3c7af)
+
+
