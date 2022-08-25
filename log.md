@@ -78,4 +78,11 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 
 **Link to work:** [Commit](https://github.com/Ibraturk/wuTang-teamPage/commit/95e41924906a8f12445f225a5887d6f246a3c7af)
 
+### Day 9: August 24, 2022
+
+**Today's Progress**: Terminando la Team page con mi toque de Wu tang clan, estuve aplicando estilos finales centrando el layout y haciendo algunos ajustes en los querys para que se vieran en distintas pantallas. De mobile a tablet/Desktop ajusté la grilla principal para aprovechar el espacio.
+
+**Thoughts:** : Me contenta ver como ha ido estos primeros dias , este segundo reto de devchallenges me gustó y pude hacer mi pagina personalizada. Hay que divertirse no? Es parte del proceso.
+
+**Link to work:** [Repo](https://github.com/Ibraturk/wuTang-teamPage/tree/c51bb7c2aff53e26c48c6862cfcefac98a4d7658)
 
