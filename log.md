@@ -86,3 +86,12 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 
 **Link to work:** [Repo](https://github.com/Ibraturk/wuTang-teamPage/tree/c51bb7c2aff53e26c48c6862cfcefac98a4d7658)
 
+### Day 10: August 25, 2022
+
+**Today's Progress**: Empiezo una pagina de una Diseñadora de interiores, trabajo para Devchallenges.io . Parte del layout y assets
+
+**Thoughts:** : Escribí poco código el dia de hoy y muy tarde. No me rindió el dia para codear y me enganché con otras clases durante la jornada. Un poco de UX y UI . Mañana es otro dia, keep the movement
+
+**Link to work:** [Commit](https://github.com/Ibraturk/interior-consultant/commit/61bcab2d2801f3d612d9390eae04ea93fe7a948d)
+
+
