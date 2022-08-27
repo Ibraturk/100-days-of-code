@@ -101,5 +101,11 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 **Thoughts:** :Dificil concentrarme hoy, debó comenzar a estructurar esta página en otro horario, me pesa llegar al final de la jornada de trabajo con la cabeza quemada.
 **Link to work:** [Commit](https://github.com/Ibraturk/interior-consultant/commit/4b54ccd4445241be41a0c00c853be411e3db3547)
 
+### Day 12: August 26, 2022
+
+**Today's Progress**: Añadido navbar y posicionamiento
+
+**Thoughts:** : Round 1. Am , estoy teniendo fallas en el posicionamiento de la pagina, tengo algunos desbordes laterales y no logro comprender que estoy haciendo mal. Practicar, buscar entender y solucionar. Así estamos.
+**Link to work:** [Commit](https://github.com/Ibraturk/interior-consultant/commit/8445b2a36dba8094cebc6b8ad24e24af5024c9b7)
 
 
