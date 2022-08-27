@@ -94,4 +94,12 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 
 **Link to work:** [Commit](https://github.com/Ibraturk/interior-consultant/commit/61bcab2d2801f3d612d9390eae04ea93fe7a948d)
 
+### Day 11: August 25, 2022
+
+**Today's Progress**: Añadiendo estructura y estilos a la pagina
+
+**Thoughts:** :Dificil concentrarme hoy, debó comenzar a estructurar esta página en otro horario, me pesa llegar al final de la jornada de trabajo con la cabeza quemada.
+**Link to work:** [Commit](https://github.com/Ibraturk/interior-consultant/commit/4b54ccd4445241be41a0c00c853be411e3db3547)
+
+
 
