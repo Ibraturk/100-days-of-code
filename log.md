@@ -107,5 +107,13 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 
 **Thoughts:** : Round 1. Am , estoy teniendo fallas en el posicionamiento de la pagina, tengo algunos desbordes laterales y no logro comprender que estoy haciendo mal. Practicar, buscar entender y solucionar. Así estamos.
 **Link to work:** [Commit](https://github.com/Ibraturk/interior-consultant/commit/8445b2a36dba8094cebc6b8ad24e24af5024c9b7)
+ 
+### Day 13: August 29, 2022 
+
+**Today's Progress**: Avances en el layout, posicionamiento de los elementos y estilos. Ajustando la pantalla del diseño original para una mejor visualización. 
+
+**Thoughts:** : El fin de semana me tomó con mucho trabajo y fallos en la compu, sigo fiel a mi . Estoy en esta para aprender siempre. Hoy mucho avance, ya necesito soltar la compu.
+**Link to work:** [Commit](https://github.com/Ibraturk/interior-consultant/commit/8415bd8176c0b9100dc62d1a23571a1af0801f58)
+
 
 
