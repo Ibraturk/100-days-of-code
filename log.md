@@ -115,5 +115,11 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 **Thoughts:** : El fin de semana me tomó con mucho trabajo y fallos en la compu, sigo fiel a mi . Estoy en esta para aprender siempre. Hoy mucho avance, ya necesito soltar la compu.
 **Link to work:** [Commit](https://github.com/Ibraturk/interior-consultant/commit/8415bd8176c0b9100dc62d1a23571a1af0801f58)
 
+### Day 14: August 30, 2022 
 
+**Today's Progress**: Usando ahora Js estuve cambiando el estado de los menus, usando toggle puedo cambiar la visibilidad del contenido y mostrar el switch del menu mobile.
+
+**Thoughts:** : Está fluyendo la estructura de la página, me contenta ver que toma tiempo pero cada dia es un progreso constante. Muy contento con este nuevo aprendizaje y con la cabeza a mil.
+
+**Link to work:** [Commit](https://github.com/Ibraturk/interior-consultant/commit/5fe39b1c70e38eb7ecd0a726241276b43b746573)
 
