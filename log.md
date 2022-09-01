@@ -123,3 +123,10 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 
 **Link to work:** [Commit](https://github.com/Ibraturk/interior-consultant/commit/5fe39b1c70e38eb7ecd0a726241276b43b746573)
 
+### Day 15: August 31, 2022 
+
+**Today's Progress**: Ajuste de pantallas, margenes finales e implementación del toggle con JS. Finalizado este reto, mañana a publicarlo en devchallenge.io
+
+**Thoughts:** : Le puse un poco de estilo personal al proyecto dandole el diseño e imagenes de la cafeteria donde trabajo actualmente. Es divertido poder crear paginas para los proyectos del cotidiano. Me voy a dormir contento.
+
+**Link to work:** [Commit](https://github.com/Ibraturk/interior-consultant/commit/e55cdd81ef37da150143cd85e247f619d3c704d5)
