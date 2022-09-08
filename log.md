@@ -130,3 +130,11 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 **Thoughts:** : Le puse un poco de estilo personal al proyecto dandole el diseño e imagenes de la cafeteria donde trabajo actualmente. Es divertido poder crear paginas para los proyectos del cotidiano. Me voy a dormir contento.
 
 **Link to work:** [Commit](https://github.com/Ibraturk/interior-consultant/commit/e55cdd81ef37da150143cd85e247f619d3c704d5)
+
+### Day 16: September 7, 2022 
+
+**Today's Progress**: Tomando otro reto de devchallenges haciendo una pagina de receta para mi cafetería , maquetando la pagina en diferentes secciones para que sea mas facil la aplicación de estilos.
+
+**Thoughts:** : Bien, sigo acá . Si me vieran los señores del código y creadores de este reto ya me hubiesen tirado a la calle por faltar a las normas del reto jejejeje. Cuestión que la vida es muy cambiante y me han pasado muchas cosas estas semanas, acá sigo buscando foco y buscando integrar a mi rutina el estudio autodidacta. Es un camino que escogí , fuera del tradicional y la rutina de la facultad. Trabajar, estudiar , tener vida social y sentirme libre es un reto diario. Já salio un poco de journal acá, Seguimos codeando por amor al aprendizaje constante.
+
+**Link to work:** [Commit](https://github.com/Ibraturk/interior-consultant/commit/e55cdd81ef37da150143cd85e247f619d3c704d5)
