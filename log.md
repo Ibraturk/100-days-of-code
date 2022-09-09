@@ -138,3 +138,11 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 **Thoughts:** : Bien, sigo acá . Si me vieran los señores del código y creadores de este reto ya me hubiesen tirado a la calle por faltar a las normas del reto jejejeje. Cuestión que la vida es muy cambiante y me han pasado muchas cosas estas semanas, acá sigo buscando foco y buscando integrar a mi rutina el estudio autodidacta. Es un camino que escogí , fuera del tradicional y la rutina de la facultad. Trabajar, estudiar , tener vida social y sentirme libre es un reto diario. Já salio un poco de journal acá, Seguimos codeando por amor al aprendizaje constante.
 
 **Link to work:** [Commit](https://github.com/Ibraturk/interior-consultant/commit/e55cdd81ef37da150143cd85e247f619d3c704d5)
+
+### Day 17: September 8, 2022 
+
+**Today's Progress**: Terminadas las secciones la aplicación de los estilos fue sencilla en este proyecto, margenes, tamaños de fuente, posicionamiento con flex y ajuste de tipografía y colores, Además usé los input type checkbox para las casillas, y ajusté los media querys para las pantallas de tablet en adelante. Modificando tambien la seccion de servings que se convertia en un menu a un lateral. Usé el posicionamiento absolute para ese elemento.
+
+**Thoughts:** : Me cuesta todavía agilizar el cierre de los proyectos pero cada uno se toma su tiempo necesario. En esta ocasión pienso que fue mas facil de aplicar estilos o estuve mas agíl, Me gustó inspirarme en un proyecto personal como lo es mi trabajo en Café nerea, a los miembros del equipo les gustará la pagina.
+
+**Link to work:** [Commit](https://github.com/Ibraturk/recipe-page-nerea/commit/2d09cd5590c5839f6d63427c94c1c5682ce28836)
