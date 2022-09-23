@@ -146,3 +146,12 @@ Código escrito para las clases del Curso de Responsive Design: Maquetación Mob
 **Thoughts:** : Me cuesta todavía agilizar el cierre de los proyectos pero cada uno se toma su tiempo necesario. En esta ocasión pienso que fue mas facil de aplicar estilos o estuve mas agíl, Me gustó inspirarme en un proyecto personal como lo es mi trabajo en Café nerea, a los miembros del equipo les gustará la pagina.
 
 **Link to work:** [Commit](https://github.com/Ibraturk/recipe-page-nerea/commit/2d09cd5590c5839f6d63427c94c1c5682ce28836)
+
+### Day 18: September 23, 2022 
+
+**Today's Progress**: Me bajé un proyecto sin seguir publicando acá , dudé en volver admito. Pero si queda un registro de que la vida no es perfecta y que un pibe de 24 años migrante puede salir adelante es seguro dejando constancia en la internet. Seguí codeando en este ultimo proyecto usé un poco mas de js para abrir y cerrar los post de la galeria (tipo instagram) que hice para devchallenges.io . 
+
+**Thoughts:** : Me encantaría decir que he escrito todos los dias, pero no ha sido así. Mucho movimiento en la vida, pero este proyecto me gustó mucho, va tomando forma el primer concepto para portafolio. Eso me gusta, adquiriendo un lenguaje visual para mi pagina web y futuros proyectos personales. A seguir creando.
+
+**Link to work:** [Commit](https://github.com/Ibraturk/gallery-page/blob/main/README.md)
+
